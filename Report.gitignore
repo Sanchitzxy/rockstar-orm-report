@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Office temp files
+~$*.docx
+
+# Visual Studio / IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# build artifacts
+build/
+dist/
+
+# assets (if you want)
+assets/*.psd
